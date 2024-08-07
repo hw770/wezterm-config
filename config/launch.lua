@@ -11,6 +11,7 @@ if platform.is_win then
       { label = 'PowerShell Core', args = { 'pwsh' } },
       { label = 'PowerShell Desktop', args = { 'powershell' } },
       { label = 'Command Prompt', args = { 'cmd' } },
+      { label = 'btm', args = { 'btm' } },
       { label = 'Nushell', args = { 'nu' } },
       {
          label = 'Git Bash',
